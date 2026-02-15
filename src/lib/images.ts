@@ -7,7 +7,7 @@ export const STAY_CARD_2 = "/images/gallery/vs-ilminster-home-2.jpg";
 export const STAY_CARD_3 = "/images/gallery/vs-ilminster-home-3.jpg";
 
 // About section
-export const ABOUT_IMAGE = "/images/cabin-snow.jpg";
+export const ABOUT_IMAGE = "/images/cabin collage.png";
 
 // Gallery images
 export const GALLERY_1 = "/images/gallery/vs-ilminster-home.jpg";
