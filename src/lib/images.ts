@@ -4,10 +4,10 @@ export const HERO_BG = "/images/hero.png";
 // Stay option cards
 export const STAY_CARD_1 = "/images/tent.jpg";
 export const STAY_CARD_2 = "/images/gallery/vs-ilminster-home-2.jpg";
-export const STAY_CARD_3 = "/images/cabins wood.jpg";
+export const STAY_CARD_3 = "/images/cabins-wood.jpg";
 
 // About section
-export const ABOUT_IMAGE = "/images/cabin collage.png";
+export const ABOUT_IMAGE = "/images/cabin-collage.jpg";
 
 // Gallery images
 export const GALLERY_1 = "/images/gallery/vs-ilminster-home.jpg";
